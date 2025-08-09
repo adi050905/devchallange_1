@@ -1,0 +1,21 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    --space-line: 3cap;
+}
+header{
+    text-align: center;
+    margin-bottom: 50px;
+}
+main{
+    margin: 100px;
+    margin-left:20vw;
+}
+#order{
+    line-height: var(--space-line);
+}
+#return{
+    line-height: var(--space-line);
+}
+a{
+    text-decoration: none;
+}
